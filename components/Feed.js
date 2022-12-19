@@ -1,3 +1,7 @@
 export default function Feed() {
-  return <></>;
+  return (
+    <>
+      <h1>I am good</h1>
+    </>
+  );
 }
